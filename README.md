@@ -20,9 +20,7 @@ To install **Microcomms**, run the following command:
 
 ```sh
 go get github.com/pramithamj/microcomms
-
-
-To make your **Microcomms** package stand out and offer something unique compared to other microservices communication packages, here are some key features and enhancements you can focus on:
+```
 
 ### **What Makes Microcomms Unique:**
 
