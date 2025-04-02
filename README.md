@@ -1,3 +1,5 @@
+updated 2024-04-02
+
 # Microcomms - Microservices Communication Helper
 
 **Microcomms** is a Go package designed to simplify microservices communication. It provides modules for handling HTTP requests, gRPC communication, message queues (RabbitMQ, Kafka, NATS), and service discovery (Consul, etcd), all with built-in retries, authentication, logging, and distributed tracing.
