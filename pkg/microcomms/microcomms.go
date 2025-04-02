@@ -3,7 +3,6 @@ package microcomms
 
 import (
     "context"
-    "log"
     "net/http"
     "time"
     

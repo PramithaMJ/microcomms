@@ -2,7 +2,6 @@ package discovery
 
 import (
     "fmt"
-    "log"
     "sync"
     "time"
     

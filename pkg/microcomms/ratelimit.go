@@ -1,7 +1,6 @@
 package microcomms
 
 import (
-    "fmt"
     "sync"
     "time"
 )
