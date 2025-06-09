@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **HTTP Client**: Simplified HTTP requests with retries, OAuth, JWT authentication, and logging.
 - **gRPC Client**: Easy-to-use gRPC client with connection pooling, retries, and authentication.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 To install **Microcomms**, run the following command:
 
