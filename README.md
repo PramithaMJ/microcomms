@@ -96,4 +96,4 @@ To make **Microcomms** stand out, focus on providing:
 - **Ease of use** with unified clients, sensible defaults, and clear documentation
 - **Advanced observability** tools like logging and tracing
 
-These unique features combined with enhancements such as flexible protocol switching, security, and integration with monitoring systems will differentiate **Microcomms** from other Go packages for microservice communication! 🚀
+These unique features combined with enhancements such as flexible protocol switching, security, and integration with monitoring systems will differentiate **Microcomms** from other Go packages for microservice communication!
